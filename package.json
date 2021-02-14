@@ -1,6 +1,6 @@
 {
   "name": "end-user",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "module to manage end-users",
   "main": "index.js",
   "scripts": {
