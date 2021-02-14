@@ -1,11 +1,11 @@
 {
   "name": "end-user",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "module to manage end-users",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Richard Cardona <richard@cardona.us>",
-  "license": "Apache-2.0"
+  "license": "Apache License 2.0"
 }
